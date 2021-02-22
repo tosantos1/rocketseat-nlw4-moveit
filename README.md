@@ -2,7 +2,7 @@
 <h3>#rumoaoproximonivel</h3>
 
 <div align="center">
-   <img src="src/img/wallpaper.png" alt="Wallpaper">
+   <img src="src/img/wallpaper.png" alt="Wallpaper" width="8000px">
 </div>
 
 <!-- ******************************* Título do Projeto ****************************************  -->
@@ -17,13 +17,13 @@
 <!-- ************************************  Badges  ********************************************  -->
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tosantos1/rocketseat-nlw4-moveit?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tosantos1/rocketseat-nlw4-moveit?color=342680">
 
   <a href="https://rocketseat.com.br">
     <img alt="Made by Tiago Oliveira" src="https://img.shields.io/badge/made%20by-Tiago Oliveira-342680">
   </a>
 
-  <img src="https://img.shields.io/github/repo-size/tosantos1/Markdown_Library?color=342680" alt="badge"/>
+  <img src="https://img.shields.io/github/repo-size/tosantos1/rocketseat-nlw4-moveit?color=342680" alt="badge"/>
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tosantos1/rocketseat-nlw4-moveit?color=342680">
 
 </p>
@@ -41,7 +41,7 @@
 <!-- ******************************* Sobre ***************************************************  -->
 
 <h2 id="sobre"> 🚀 Sobre o Projeto </h2>
-Descrição do que é e para que serve o projeto que foi desenvolvido.
+Em breve o resultado final do projeto.
 
 <h2 id="cronograma"> 📆 Cronograma do Projeto</h2>
 <div align="center">
