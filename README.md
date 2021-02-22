@@ -23,7 +23,6 @@
     <img alt="Made by Tiago Oliveira" src="https://img.shields.io/badge/made%20by-Tiago Oliveira-342680">
   </a>
 
-  <img src="https://img.shields.io/github/repo-size/tosantos1/rocketseat-nlw4-moveit?color=342680" alt="badge"/>
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tosantos1/rocketseat-nlw4-moveit?color=342680">
 
 </p>
