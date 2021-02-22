@@ -1,46 +1,58 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3>#rumoaoproximonivel</h3>
 
-## Available Scripts
+<div align="center">
+   <img src="src/img/wallpaper.png" alt="Wallpaper">
+</div>
 
-In the project directory, you can run:
+<!-- ******************************* Título do Projeto ****************************************  -->
+<h1 align="center" > Next Level Week 04 - Projeto Moveit</h1>
 
-### `yarn start`
+<!-- *******************************  Status do Projeto  **************************************  -->
+<p align="center">
+   Status do Projeto :  🚧 Projeto em Construção  🚧
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<br/>
+<!-- ************************************  Badges  ********************************************  -->
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tosantos1/rocketseat-nlw4-moveit?color=%2304D361">
 
-### `yarn test`
+  <a href="https://rocketseat.com.br">
+    <img alt="Made by Tiago Oliveira" src="https://img.shields.io/badge/made%20by-Tiago Oliveira-342680">
+  </a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  <img src="https://img.shields.io/github/repo-size/tosantos1/Markdown_Library?color=342680" alt="badge"/>
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tosantos1/rocketseat-nlw4-moveit?color=342680">
 
-### `yarn build`
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- ******************************* Ancoras **************************************************  -->
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p align="center">
+  <a href="#sobre">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#cronograma">Cronograma do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias e Bibliotecas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#"></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#"></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<!-- ******************************* Sobre ***************************************************  -->
 
-### `yarn eject`
+<h2 id="sobre"> 🚀 Sobre o Projeto </h2>
+Descrição do que é e para que serve o projeto que foi desenvolvido.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<h2 id="cronograma"> 📆 Cronograma do Projeto</h2>
+<div align="center">
+   <img src="src/img/cronograma.png" alt="Cronograma">
+</div>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<h2 id="tecnologias"> 🧰 Tecnologias e Bibliotecas</h2>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+* [HTML](https://www.w3schools.com/html/) 
+* [CSS](https://www.w3schools.com/css/) 
+* [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
+* [TypeScript](https://www.typescriptlang.org/) - Linguagem baseada em JavaScript que adicionar definições de tipo estático.
+* [ReactJS](https://pt-br.reactjs.org/) - Biblioteca JavaScript para criação de Interfaces.   
