@@ -2,7 +2,7 @@
 <h3>#rumoaoproximonivel</h3>
 
 <div align="center">
-   <img src="src/img/wallpaper.png" alt="Wallpaper" width="8000px">
+   <img src="src/img/wallpaper.png" alt="Wallpaper" width="1500px" height="1500px">
 </div>
 
 <!-- ******************************* Título do Projeto ****************************************  -->
